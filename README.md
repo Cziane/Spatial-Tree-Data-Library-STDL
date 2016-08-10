@@ -1,5 +1,12 @@
 # Spatial-Tree-Data-Library-STDL
 
+## Table of Contents
+1. [Concepts](#Concepts)
+2. [Getting Started](#getting-started)
+3. [Get it](#Get-it)
+4. [Contribute](#Contribute)
+5. [Lisence](#Lisence)
+
 ## Concepts
 
 **STDL** is a basic library in java for Spatial Trees. In this lib you can find :
@@ -10,7 +17,7 @@
 
 For graphical application I will add a version of trees using a List for  renderer engines.
 
-## How to use it.
+## Getting Started.
 
 *Under Construction*
 
