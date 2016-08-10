@@ -9,6 +9,6 @@ package com.logoosse.stdl.node;
  *
  * @author Logoosse
  */
-public class NodeAbs {
+public abstract class NodeAbs {
     
 }
